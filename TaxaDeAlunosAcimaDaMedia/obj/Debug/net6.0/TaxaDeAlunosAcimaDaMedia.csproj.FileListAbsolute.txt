@@ -1,0 +1,15 @@
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\bin\Debug\net6.0\TaxaDeAlunosAcimaDaMedia.exe
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\bin\Debug\net6.0\TaxaDeAlunosAcimaDaMedia.deps.json
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\bin\Debug\net6.0\TaxaDeAlunosAcimaDaMedia.runtimeconfig.json
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\bin\Debug\net6.0\TaxaDeAlunosAcimaDaMedia.dll
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\bin\Debug\net6.0\TaxaDeAlunosAcimaDaMedia.pdb
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\obj\Debug\net6.0\TaxaDeAlunosAcimaDaMedia.csproj.AssemblyReference.cache
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\obj\Debug\net6.0\TaxaDeAlunosAcimaDaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\obj\Debug\net6.0\TaxaDeAlunosAcimaDaMedia.AssemblyInfoInputs.cache
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\obj\Debug\net6.0\TaxaDeAlunosAcimaDaMedia.AssemblyInfo.cs
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\obj\Debug\net6.0\TaxaDeAlunosAcimaDaMedia.csproj.CoreCompileInputs.cache
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\obj\Debug\net6.0\TaxaDeAlunosAcimaDaMedia.dll
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\obj\Debug\net6.0\refint\TaxaDeAlunosAcimaDaMedia.dll
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\obj\Debug\net6.0\TaxaDeAlunosAcimaDaMedia.pdb
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\obj\Debug\net6.0\TaxaDeAlunosAcimaDaMedia.genruntimeconfig.cache
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\AccessBrasil_testePratico\TaxaDeAlunosAcimaDaMedia\TaxaDeAlunosAcimaDaMedia\obj\Debug\net6.0\ref\TaxaDeAlunosAcimaDaMedia.dll
